@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.100.0](https://github.com/fox-brewery/asdf/compare/v0.12.0...v0.100.0) (2023-09-07)
+
+### ⚠ BREAKING CHANGES
+
+* don't resolve symlinks for ASDF_DIR ([#1583](https://github.com/asdf-vm/asdf/pull/1583))
+* 0 exit code for success when adding an existing plugin ([#1598](https://github.com/asdf-vm/asdf/pull/1598))
+* plugin list exit code 0 when no plugins are installed ([#1597](https://github.com/asdf-vm/asdf/pull/1597))
+
+### Documentation
+
+* bin/latest-stable empty query is set to default ([#1591](https://github.com/asdf-vm/asdf/pull/1591))
+* migrate to VitePress from VuePress ([#1578](https://github.com/asdf-vm/asdf/pull/1578))
+
+### Patches
+
+* Make asdf.fish compatible with Fish 3.1.2 ([#1590](https://github.com/asdf-vm/asdf/pull/1590))
+* no longer write temporary files to home directory ([#1592](https://github.com/asdf-vm/asdf/pull/1592))
+
 ## [0.12.0](https://github.com/asdf-vm/asdf/compare/v0.11.3...v0.12.0) (2023-06-09)
 
 
