@@ -1,5 +1,10 @@
 # Changelog
 
+### [0.101.0](https://github.com/fox-brewery/asdf/compare/v0.100.0...v0.101.0) (2023-09-16)
+
+- Merge latest changes from [asdf-vm/asdf](https://github.com/asdf-vm/asdf).
+  - Includes `v0.13.0` and `v0.13.1`
+
 ## [0.100.0](https://github.com/fox-brewery/asdf/compare/v0.12.0...v0.100.0) (2023-09-07)
 
 ### ⚠ BREAKING CHANGES
